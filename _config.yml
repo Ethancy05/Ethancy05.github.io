@@ -98,18 +98,16 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Ethancy05/Ethancy05.github.io.git
+  repo:
+    github: git@github.com:Ethancy05/Ethancy05.github.io.git
+    #coding: git@e.coding.net:ethancy05/ethancy05/Ethancy05.git
+    gitee: git@gitee.com:Ethancy05/ethancy05.git
   brancher: master
 
-#backup
-backup:
-  type: git
-  theme: hexo-theme-next
-  messgae: back up my blog
-  repository: git@github.com:Ethancy05/Ethancy05.github.io.git,backup 
+
