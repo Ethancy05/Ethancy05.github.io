@@ -3,6 +3,7 @@ title: MarkdownPad Pro
 date: 2021-02-16 10:59:49
 tags: 软件
 categories: 软件
+copyright_url: https://ethamcy05.top
 ---
 
 # Pro版设置方法 #
