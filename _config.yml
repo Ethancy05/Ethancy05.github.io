@@ -4,8 +4,8 @@
 
 # Site
 title: Quanyi's Blog
-subtitle: ''
-description: ''
+subtitle: 记录生活
+description: 这里是我的博客，我会记录一些心得、经验和折腾教程。
 keywords:
 author: Quanyi
 language: zh-CN
@@ -106,7 +106,7 @@ deploy:
   type: git
   repo: 
     github: git@github.com:Ethancy05/Ethancy05.github.io.git
-    gitee: git@gitee.com:Ethancy05/ethancy05.git
+    #gitee: git@gitee.com:Ethancy05/ethancy05.git
   brancher: master
 
 
