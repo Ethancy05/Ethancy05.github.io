@@ -106,7 +106,7 @@ deploy:
   type: git
   repo: 
     github: git@github.com:Ethancy05/Ethancy05.github.io.git
-    #gitee: git@gitee.com:Ethancy05/ethancy05.git
+    gitee: git@gitee.com:Ethancy05/ethancy05.git
   brancher: master
 
 
