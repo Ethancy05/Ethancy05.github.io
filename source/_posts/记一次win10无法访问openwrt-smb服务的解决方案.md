@@ -5,7 +5,7 @@ date: 2021-02-23 15:19:25
 tags: 
    - smb
    - openwrt
-categories: Openwrt
+categories: openwrt
 description: 记载win10不能访问openwrt的smb服务的解决办法（报错）
 ---
 # 问题描述

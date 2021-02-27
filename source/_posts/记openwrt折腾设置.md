@@ -2,7 +2,9 @@
 title: 记openwrt折腾设置
 date: 2021-02-16 10:34:00
 tags: openwrt 软路由
-categories: openwrt
+categories: 
+	- openwrt
+	- 软路由
 ---
 # 前言 #
 **简单记录一下折腾openwrt期间遇到的一些问题和简单设置**
