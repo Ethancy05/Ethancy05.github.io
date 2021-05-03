@@ -90,10 +90,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: 
+index_img: /img/top_img.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: /img/top_img.jpg
 
 # The banner image of archive page
 archive_img:
@@ -304,7 +304,7 @@ gitalk:
   perPage: 10 # Pagination size, with maximum 100.
   distractionFreeMode: false # Facebook-like distraction free mode.
   pagerDirection: last # Comment sorting direction, available values are last and first.
-  createIssueManually: false # Gitalk will create a corresponding github issue for your every single page automatically
+  createIssueManually: true # Gitalk will create a corresponding github issue for your every single page automatically
 
 # valine
 # https://valine.js.org
