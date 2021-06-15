@@ -6,4 +6,11 @@ tags: hexo
 categories: hexo
 description: 近期搭建了基于Hexo+Github的个人博客，期间遇到了一些问题，也花费了一些时间，在此总结一下。
 ---
-# 暂未更新 #
+#  0 介绍 
+
+# 1 环境
+
+# 2 平台
+
+# 3 优化
+

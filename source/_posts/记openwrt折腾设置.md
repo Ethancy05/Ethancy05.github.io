@@ -5,6 +5,7 @@ tags: openwrt 软路由
 categories: 
 	- openwrt
 	- 软路由
+description: openwrt折腾记录
 ---
 # 前言 #
 **简单记录一下折腾openwrt期间遇到的一些问题和简单设置**

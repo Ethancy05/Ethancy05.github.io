@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -106,7 +106,12 @@ deploy:
   type: git
   repo: 
     github: git@github.com:Ethancy05/Ethancy05.github.io.git
-    gitee: git@gitee.com:Ethancy05/ethancy05.git
+    #gitee: git@gitee.com:Ethancy05/ethancy05.git
+    #coding: git@e.coding.net:ethancy05/ethancy05/Ethancy05.git  
   brancher: master
 
-
+# hexo-admin authentification
+admin:
+  username: ethancy05
+  password_hash: $2a$10$F.dEfXVdg6qiM8vV6aBOc.d4SeMO.IcvfnymTV8s.HVSfoqAHf3US
+  secret: gqylcy

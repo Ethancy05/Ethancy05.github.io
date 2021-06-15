@@ -2,6 +2,7 @@
 title: Gitee Pages自动部署简记
 date: 2021-02-17 17:08:36
 tags: hexo
+description: 博客备份
 ---
 # 前言 #
 
@@ -14,7 +15,6 @@ tags: hexo
 
 # 自动部署方法 #
 > 参考的是Github上的项目 <https://github.com/yanglbme/gitee-pages-action>
-> 
 
 
 
